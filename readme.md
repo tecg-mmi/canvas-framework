@@ -1,4 +1,4 @@
-# canvas-framework
+# Un framework TypeScript pour <canvas>
 
 > A JS exercise use at HEPL for MMI.
 
@@ -12,3 +12,7 @@
 
 
 
+## Fonctionnement 
+
+1. Depuis le dossier courant lancer la commande `nom run watch`;
+2. À vous de compléter...
